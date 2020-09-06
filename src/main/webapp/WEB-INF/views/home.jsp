@@ -6,7 +6,11 @@
 </head>
 <body>
 <h1>
+<<<<<<< HEAD
 	Hello Java!
+=======
+	Spring Project 
+>>>>>>> test-music
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
